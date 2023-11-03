@@ -1,0 +1,19 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lrrrr}
+\toprule
+ & \textbf{Precision} & \textbf{Recall} & \textbf{F1} & \textbf{Number} \\
+\midrule
+Corporation & 0.15 & 0.15 & 0.15 & 66 \\
+Creative-Work & 0.51 & 0.22 & 0.31 & 142 \\
+Group & 0.35 & 0.15 & 0.21 & 165 \\
+Location & 0.51 & 0.45 & 0.48 & 150 \\
+Person & 0.75 & 0.44 & 0.56 & 429 \\
+Product & 0.12 & 0.09 & 0.10 & 127 \\
+\midrule
+ & \textbf{Overall precision} & \textbf{Overall recall} & \textbf{Overall F1} & \textbf{Overall accuracy} \\
+\midrule
+ & 0.50 & 0.31 & 0.38 & 0.93 \\
+\bottomrule
+\end{tabular}
+\end{table}
